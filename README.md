@@ -3,4 +3,4 @@
 
 Skill level: JavaScript Basics.
 
-Object: The creation of the Rock Paper Scissors game, which will be played entirely on the console, between one player and the computer.
+Object: The creation of the game Rock Paper Scissors, which will be completed within 5 rounds entirely through the console, between a player and the computer.
